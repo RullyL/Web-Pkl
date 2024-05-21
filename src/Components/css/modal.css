@@ -1,0 +1,30 @@
+.modal-content {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  }
+  
+  
+  .modal-body {
+    text-align: center;
+    font-size: 24px;
+    padding: 20px;
+  }
+  
+  .modal-footer {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .btn-secondary {
+    background-color: #ffc107;
+    color: #fff;
+    border: none;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #f0ad4e;
+  }
+  h4{
+    text-align: left;
+    opacity: 1;
+  }

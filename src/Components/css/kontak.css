@@ -1,0 +1,38 @@
+.MaincontainerKontak {
+  width: 40%;
+  height: 585px;
+  top: 95px;
+  border-radius: 10px;
+  position: absolute;
+  z-index: 999;
+  left: 800px;
+  padding: 10px 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #867070;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.contact-info {
+  align-items: center;
+  margin: 20px 10px;
+  color: white;
+}
+
+.contact-info i {
+  font-size: 24px;
+  margin-left: 10px;
+  color: #333;
+}
+
+.contact-info a {
+  color: #ffffff;
+  text-decoration: none;
+  padding-left: 10px;
+}
+
+.contact-info a:hover {
+  color: #000;
+}

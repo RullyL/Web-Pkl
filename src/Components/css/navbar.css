@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap");
+.kontak-nav {
+  transition: 0.2s;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -o-transition: 0.2s;
+}
+.kontak-nav:hover {
+  transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  color: rgb(21, 194, 21);
+}
+.mainNav{
+  font-size: 20px;
+  position: relative;
+  top: 1px;
+  right: 90px;
+}
+.brand img{
+  position: relative;
+  top: 2px;
+  right: 29px;
+  height: 250px;
+  width: 280px;
+  z-index: 2;
+}
+.contact-info a{
+  color: white;
+}

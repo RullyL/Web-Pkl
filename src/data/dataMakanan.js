@@ -1,0 +1,105 @@
+const Food = [
+  {
+    id: 1,
+    img: "https://pbs.twimg.com/media/Ezel0yCVIAMsgIv?format=jpg&name=small",
+    nama: "Ayam Serundeng",
+    harga: 10000,
+  },
+  {
+    id: 2,
+    img: "https://s4.bukalapak.com/uploads/content_attachment/e7ba60bba38e09c4f535ccb5/w-740/resep_soto_ayam_santan_2.jpg",
+    nama: "Soto Ayam",
+    harga: 16000,
+  },
+  {
+    id: 3,
+    img: "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/06/26/3439192557.jpg",
+    nama: "Sop Iga Sapi",
+    harga: 35000,
+  },
+  {
+    id: 4,
+    img: "https://tukangreview.com/wp-content/uploads/2020/02/sayur-nangka-715x350.jpg",
+    nama: "Sayur Nangka",
+    harga: 6000,
+  },
+  {
+    id: 5,
+    img: "https://down-id.img.susercontent.com/file/7306d49ba432c15c2a4222d5f1ad6a0a",
+    nama: "Pindang",
+    harga: 6000,
+  },
+  {
+    id: 6,
+    img: "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/09/27/4211100239.png",
+    nama: "Terong Balado",
+    harga: 5000,
+  },
+  {
+    id: 7,
+    img: "https://cf.shopee.co.id/file/ca63e19cf4d6df52e719f7c8f518fbc2",
+    nama: "Ayam Balado",
+    harga: 10000,
+  },
+  {
+    id: 8,
+    img: "https://foto.kontan.co.id/hPxnKYBZteUkIZrpaxkxwaaDBYs=/smart/filters:format(webp)/2022/03/04/878270615p.jpg",
+    nama: "Telur Balado",
+    harga: 5000,
+  },
+  {
+    id: 9,
+    img: "https://parboaboa.com/data/foto_berita/resep-semur-jengkol.webp",
+    nama: "Semur Jengkol",
+    harga: 5000,
+  },
+  {
+    id: 10,
+    img: "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2023/02/25/2891521616.png",
+    nama: "Rolade",
+    harga: 5000,
+  },
+  {
+    id: 11,
+    img: "https://www.panduanibu.com/userfiles/uploads/resep-sayur-daun-singkong-santan-gurih-rempah-pilihan.png",
+    nama: "Sayur Daun Singkog",
+    harga: 5000,
+  },
+  {
+    id: 12,
+    img: "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/novafoto/original/82036_ini-bumbu-masak-pesmol-ikan-mas-yang-enak.jpg",
+    nama: "Ikan Mas",
+    harga: 10000,
+  },
+  {
+    id: 14,
+    img: "https://img.herstory.co.id/articles/archive_20220926/gepuk-daging-sapi-20220926-132746.jpg",
+    nama: "Gepuk Sapi",
+    harga: 15000,
+  },
+  {
+    id: 15,
+    img: "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2022/07/18/2573553402.jpg",
+    nama: "Sayur Asem",
+    harga: 5000,
+  },
+  {
+    id: 16,
+    img: "https://cdn0-production-images-kly.akamaized.net/Wq508dA65owqt1y2hEsr6unGy2M=/2x1658:3441x3595/640x360/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3160071/original/093773400_1592895952-shutterstock_1716132283.jpg",
+    nama: "Sayur Kacang",
+    harga: 5000,
+  },
+  {
+    id: 17,
+    img: "https://s3.bukalapak.com/img/8524921702/large/Nasi_Putih_per_porsi.jpg",
+    nama: "Nasi",
+    harga: 5000,
+  },
+  {
+    id: 18,
+    img: "https://images.tokopedia.net/img/KRMmCm/2022/4/12/0ebaf556-f870-416f-a617-486c7fdef2eb.jpg",
+    nama: "Sambel Terasi",
+    harga: 5000,
+  },
+];
+export { Food };
